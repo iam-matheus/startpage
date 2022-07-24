@@ -1,0 +1,20 @@
+{
+  "name": "startpage",
+  "version": "1.0.0",
+  "description": "A js startup application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-matheus/startpage.git"
+  },
+  "author": "Matheus Mulundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-matheus/startpage.git"
+  },
+  "homepage": "https://github.com/iam-matheus/startpage.git"
+}

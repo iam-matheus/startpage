@@ -1,10 +1,7 @@
 const names = [
     "Master",
-    "Commander",
     "Sir",
-    "YourName",
-    "Professor",
-    "Shinobi"
+    "Dynasty",
 ]
 
 const quotes = [

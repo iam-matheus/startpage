@@ -1,6 +1,6 @@
 function updateWeather() {
     $.ajax({
-        url: "url", //get your free url from weathapi.com
+        url: "3fd6ae3a926242a4b9255952222407", //get your free url from weathapi.com
         type: "GET",
         success: function(result) {
             const temperature = toDecimal(result.current.temp_c) + "°C";
